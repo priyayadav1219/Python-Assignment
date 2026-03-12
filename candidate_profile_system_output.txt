@@ -1,0 +1,37 @@
+------ Candidate Profile -----
+Name: Nani
+Date of Birth: 05-06-1999
+Contact Number: 8765567899
+Email: nani05@gmail.com
+
+-----Education Details----
+Degree: B.Tech
+University: Gitam University
+Year of Graduation: 2018
+CGPA: 9.2
+
+----Work Experience----
+Company Name: Infosys
+Job Role: Software Engineer
+Years of Experience: 6
+Skills: Python, Java
+Eligible for Senior Role
+
+------ Candidate Profile -----
+Name: Lohith
+Date of Birth: 03-12-1999
+Contact Number: 7656789874
+Email: lohith35@gmail.com
+
+-----Education Details----
+Degree: B.Sc Computer Science
+University: Delhi University
+Year of Graduation: 2021
+CGPA: 8.9
+
+----Work Experience----
+Company Name: TCS
+Job Role: Junior Developer
+Years of Experience: 2
+Skills: Python, SQL
+Eligible for Junior Role
