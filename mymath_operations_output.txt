@@ -1,0 +1,8 @@
+1. Sum of first n natural numbers
+2. First n prime numbers
+3. Fibonacci series
+4. Factorial
+Enter your choice (1-4): 3
+Enter the value of n: 10
+Fibonacci series:
+0 1 1 2 3 5 8 13 21 34 
